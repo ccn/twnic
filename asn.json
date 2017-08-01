@@ -1,0 +1,732 @@
+{
+  "AS1659": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2005-05-26"
+  },
+  "AS3462": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "1998-05-11"
+  },
+  "AS4636": {
+    "Netname": "TFN-NET",
+    "Org": "台灣固網股份有限公司",
+    "IssueDate": "2011-06-01"
+  },
+  "AS4747": {
+    "Netname": "TFN-NET",
+    "Org": "台灣固網股份有限公司",
+    "IssueDate": "2011-06-01"
+  },
+  "AS4780": {
+    "Netname": "NCICNET-NET",
+    "Org": "新世紀資通股份有限公司",
+    "IssueDate": "2001-11-23"
+  },
+  "AS4781": {
+    "Netname": "PAGIC-NET",
+    "Org": "宏碁股份有限公司",
+    "IssueDate": "2003-08-28"
+  },
+  "AS4782": {
+    "Netname": "GSN-NET",
+    "Org": "國家發展委員會",
+    "IssueDate": "2003-08-28"
+  },
+  "AS4783": {
+    "Netname": "SYSNET-NET",
+    "Org": "精誠資訊股份有限公司",
+    "IssueDate": "2003-08-28"
+  },
+  "AS7478": {
+    "Netname": "MKY-NET",
+    "Org": "瑪凱電信股份有限公司",
+    "IssueDate": "2004-07-27"
+  },
+  "AS7481": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2003-09-01"
+  },
+  "AS7482": {
+    "Netname": "APOL-NET",
+    "Org": "亞太電信股份有限公司",
+    "IssueDate": "2001-07-20"
+  },
+  "AS7532": {
+    "Netname": "GAMANIA-NET",
+    "Org": "遊戲橘子數位科技股份有限公司",
+    "IssueDate": "2001-02-19"
+  },
+  "AS7534": {
+    "Netname": "SILKERA-NET",
+    "Org": "新絲路科技股份有限公司",
+    "IssueDate": "1999-09-28"
+  },
+  "AS7535": {
+    "Netname": "TISNET-NET",
+    "Org": "協志聯合科技股份有限公司",
+    "IssueDate": "1999-09-29"
+  },
+  "AS7539": {
+    "Netname": "NBEN-NET",
+    "Org": "國家高速網路與計算中心",
+    "IssueDate": "2001-05-16"
+  },
+  "AS7541": {
+    "Netname": "TFN-NET",
+    "Org": "台灣固網股份有限公司",
+    "IssueDate": "2011-06-01"
+  },
+  "AS9311": {
+    "Netname": "APOL-NET",
+    "Org": "亞太電信股份有限公司",
+    "IssueDate": "2005-04-21"
+  },
+  "AS9674": {
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
+    "IssueDate": "1999-12-01"
+  },
+  "AS9676": {
+    "Netname": "SAVECOM-NET",
+    "Org": "宏遠電訊股份有限公司",
+    "IssueDate": "1999-12-01"
+  },
+  "AS9679": {
+    "Netname": "IONET-NET",
+    "Org": "台灣愛鷗網股份有限公司",
+    "IssueDate": "2000-03-23"
+  },
+  "AS9680": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "1999-12-01"
+  },
+  "AS9681": {
+    "Netname": "TWAREN-NET",
+    "Org": "國家高速網路與計算中心",
+    "IssueDate": "2000-10-09"
+  },
+  "AS9915": {
+    "Netname": "sayhi-net",
+    "Org": "登門數位通信股份有限公司",
+    "IssueDate": "2000-10-09"
+  },
+  "AS9916": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2003-12-12"
+  },
+  "AS9918": {
+    "Netname": "KGT-NET",
+    "Org": "和宇寬頻網路股份有限公司",
+    "IssueDate": "2000-10-11"
+  },
+  "AS9919": {
+    "Netname": "NCICNET-NET",
+    "Org": "新世紀資通股份有限公司",
+    "IssueDate": "2001-10-02"
+  },
+  "AS9921": {
+    "Netname": "TFN-NET",
+    "Org": "台灣固網股份有限公司",
+    "IssueDate": "2000-10-11"
+  },
+  "AS9924": {
+    "Netname": "TFN-NET",
+    "Org": "台灣固網股份有限公司",
+    "IssueDate": "2000-12-30"
+  },
+  "AS10135": {
+    "Netname": "EASPNET-NET",
+    "Org": "數位通國際網路股份有限公司",
+    "IssueDate": "2003-08-06"
+  },
+  "AS17416": {
+    "Netname": "DWINS-NET",
+    "Org": "敦緯數位服務股份有限公司",
+    "IssueDate": "2000-12-30"
+  },
+  "AS17417": {
+    "Netname": "DYXNET-NET",
+    "Org": "香港商第一線有限公司台灣分公司",
+    "IssueDate": "2000-12-30"
+  },
+  "AS17419": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2000-12-30"
+  },
+  "AS17420": {
+    "Netname": "ACCSINET-NET",
+    "Org": "安碁資訊股份有限公司",
+    "IssueDate": "0000-00-00"
+  },
+  "AS17421": {
+    "Netname": "EMOME-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2000-12-30"
+  },
+  "AS17709": {
+    "Netname": "APOL-NET",
+    "Org": "亞太電信股份有限公司",
+    "IssueDate": "2001-10-29"
+  },
+  "AS17710": {
+    "Netname": "PIINET-NET",
+    "Org": "統一資訊股份有限公司",
+    "IssueDate": "2001-10-31"
+  },
+  "AS17711": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2001-10-31"
+  },
+  "AS17712": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2001-10-31"
+  },
+  "AS17713": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2001-10-31"
+  },
+  "AS17714": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2001-10-31"
+  },
+  "AS17715": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2001-10-31"
+  },
+  "AS17716": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2001-10-31"
+  },
+  "AS17717": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2001-10-31"
+  },
+  "AS18042": {
+    "Netname": "KBT-NET",
+    "Org": "中嘉和網股份有限公司",
+    "IssueDate": "2001-12-13"
+  },
+  "AS18043": {
+    "Netname": "GETOP-NET",
+    "Org": "堅達資訊實業股份有限公司",
+    "IssueDate": "2002-01-23"
+  },
+  "AS18044": {
+    "Netname": "KINGNET-NET",
+    "Org": "今網資訊科技股份有限公司",
+    "IssueDate": "2002-02-01"
+  },
+  "AS18045": {
+    "Netname": "SINOPAC-NET",
+    "Org": "永豐金融控股股份有限公司",
+    "IssueDate": "2001-12-12"
+  },
+  "AS18046": {
+    "Netname": "DONGFONG-NET",
+    "Org": "東豐科技股份有限公司",
+    "IssueDate": "2007-03-27"
+  },
+  "AS18047": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2002-03-11"
+  },
+  "AS18048": {
+    "Netname": "HONGJAY-NET",
+    "Org": "鋐捷科技股份有限公司",
+    "IssueDate": "2016-11-03"
+  },
+  "AS18049": {
+    "Netname": "TINP-NET",
+    "Org": "台灣基礎開發科技股份有限公司",
+    "IssueDate": "2002-02-06"
+  },
+  "AS18177": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2002-06-06"
+  },
+  "AS18178": {
+    "Netname": "ATT-NET",
+    "Org": "台灣美訊國際通訊股份有限公司",
+    "IssueDate": "2002-07-08"
+  },
+  "AS18179": {
+    "Netname": "MITACMDC-NET",
+    "Org": "神通資訊科技股份有限公司",
+    "IssueDate": "2002-07-15"
+  },
+  "AS18180": {
+    "Netname": "ACI-NET",
+    "Org": "全球華人股份有限公司",
+    "IssueDate": "2002-07-25"
+  },
+  "AS18181": {
+    "Netname": "NHRI-NET",
+    "Org": "國家衛生研究院",
+    "IssueDate": "2002-07-31"
+  },
+  "AS18182": {
+    "Netname": "SONET-NET",
+    "Org": "台灣碩網網路娛樂股份有限公司",
+    "IssueDate": "2002-08-15"
+  },
+  "AS18183": {
+    "Netname": "TWAREN-NET",
+    "Org": "國家高速網路與計算中心",
+    "IssueDate": "2002-10-23"
+  },
+  "AS18184": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2002-11-25"
+  },
+  "AS18185": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2002-11-25"
+  },
+  "AS18410": {
+    "Netname": "104IT-NET",
+    "Org": "一零四資訊科技股份有限公司",
+    "IssueDate": "2003-03-13"
+  },
+  "AS18411": {
+    "Netname": "EDTNS-NET",
+    "Org": "易達通網路系統有限公司",
+    "IssueDate": "2003-05-16"
+  },
+  "AS18412": {
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
+    "IssueDate": "2003-09-16"
+  },
+  "AS18413": {
+    "Netname": "GTBC-NET",
+    "Org": "大台北寬頻網路股份有限公司",
+    "IssueDate": "2003-09-24"
+  },
+  "AS18414": {
+    "Netname": "TWAREN-NET",
+    "Org": "國家高速網路與計算中心",
+    "IssueDate": "2004-02-27"
+  },
+  "AS18415": {
+    "Netname": "BWIZ-NET",
+    "Org": "正源科技股份有限公司",
+    "IssueDate": "2003-10-02"
+  },
+  "AS18416": {
+    "Netname": "NETOWN-NET",
+    "Org": "真茂科技股份有限公司",
+    "IssueDate": "2003-12-15"
+  },
+  "AS18417": {
+    "Netname": "twnic-net",
+    "Org": "台灣網路資訊中心",
+    "IssueDate": "2003-09-01"
+  },
+  "AS18418": {
+    "Netname": "twnic-net",
+    "Org": "台灣網路資訊中心",
+    "IssueDate": "2003-09-01"
+  },
+  "AS18419": {
+    "Netname": "SIGMA-NET",
+    "Org": "大大寬頻股份有限公司",
+    "IssueDate": "2004-02-13"
+  },
+  "AS18420": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2004-03-03"
+  },
+  "AS18421": {
+    "Netname": "TAISHINBANK-NET",
+    "Org": "台新國際商業銀行",
+    "IssueDate": "2004-03-11"
+  },
+  "AS18422": {
+    "Netname": "ITRINET-NET",
+    "Org": "工業技術研究院",
+    "IssueDate": "2004-08-18"
+  },
+  "AS18423": {
+    "Netname": "ROAMNET-NET",
+    "Org": "沅鴻媒體傳訊有限公司",
+    "IssueDate": "2004-12-29"
+  },
+  "AS18424": {
+    "Netname": "CHWBN-NET",
+    "Org": "中華聯網寬頻股份有限公司",
+    "IssueDate": "2004-12-31"
+  },
+  "AS18425": {
+    "Netname": "TWNTT-NET",
+    "Org": "台灣恩悌悌股份有限公司",
+    "IssueDate": "2005-06-01"
+  },
+  "AS18426": {
+    "Netname": "NARL-NET",
+    "Org": "財團法人國家實驗研究院",
+    "IssueDate": "2005-07-06"
+  },
+  "AS18427": {
+    "Netname": "PCHOME-NET",
+    "Org": "網路家庭國際資訊股份有限公司",
+    "IssueDate": "2005-07-07"
+  },
+  "AS18429": {
+    "Netname": "ELNET-NET",
+    "Org": "億聯科技股份有限公司",
+    "IssueDate": "2005-11-16"
+  },
+  "AS24153": {
+    "Netname": "DIGICELL-NET",
+    "Org": "數碼戲胞科技娛樂股份有限公司",
+    "IssueDate": "2005-12-12"
+  },
+  "AS24154": {
+    "Netname": "APBT-NET",
+    "Org": "亞太電信股份有限公司",
+    "IssueDate": "2006-01-19"
+  },
+  "AS24155": {
+    "Netname": "APBT-NET",
+    "Org": "亞太電信股份有限公司",
+    "IssueDate": "2006-01-19"
+  },
+  "AS24156": {
+    "Netname": "STWN-NET",
+    "Org": "台灣索尼股份有限公司",
+    "IssueDate": "2006-01-25"
+  },
+  "AS24157": {
+    "Netname": "VIBO-NET",
+    "Org": "台灣之星電信股份有限公司",
+    "IssueDate": "2006-03-10"
+  },
+  "AS24158": {
+    "Netname": "TAIWANMOBILE-NET",
+    "Org": "台灣大哥大股份有限公司",
+    "IssueDate": "2006-03-31"
+  },
+  "AS24159": {
+    "Netname": "TYCATV-NET",
+    "Org": "東亞有線電視股份有限公司",
+    "IssueDate": "2006-04-26"
+  },
+  "AS24160": {
+    "Netname": "CHIMEI-NET",
+    "Org": "奇美實業股份有限公司",
+    "IssueDate": "2006-05-24"
+  },
+  "AS24161": {
+    "Netname": "SIMPLE-NET",
+    "Org": "新樸股份有限公司",
+    "IssueDate": "2006-06-22"
+  },
+  "AS24163": {
+    "Netname": "UBBNET-NET",
+    "Org": "台固媒體股份有限公司",
+    "IssueDate": "2007-02-13"
+  },
+  "AS24164": {
+    "Netname": "MEDIATV-NET",
+    "Org": "永佳樂有線電視股份有限公司",
+    "IssueDate": "2007-02-14"
+  },
+  "AS24166": {
+    "Netname": "GTT-NET",
+    "Org": "寶島聯網股份有限公司",
+    "IssueDate": "2007-06-27"
+  },
+  "AS24167": {
+    "Netname": "ASGC-NET",
+    "Org": "中央研究院網格計算團隊",
+    "IssueDate": "2007-07-20"
+  },
+  "AS24168": {
+    "Netname": "CLOUDMAX-NET",
+    "Org": "匯智資訊股份有限公司",
+    "IssueDate": "2007-10-02"
+  },
+  "AS24169": {
+    "Netname": "CHUAN-CHAN-NET",
+    "Org": "荃城有限公司",
+    "IssueDate": "2007-11-30"
+  },
+  "AS24170": {
+    "Netname": "NCICNET-NET",
+    "Org": "新世紀資通股份有限公司",
+    "IssueDate": "2008-03-20"
+  },
+  "AS24171": {
+    "Netname": "FITEL-NET",
+    "Org": "大眾電信股份有限公司",
+    "IssueDate": "2008-03-26"
+  },
+  "AS24172": {
+    "Netname": "LINCHEIN-NET",
+    "Org": "臨謙科技股份有限公司",
+    "IssueDate": "2008-05-13"
+  },
+  "AS38837": {
+    "Netname": "GSNET-NET",
+    "Org": "博訊科技股份有限公司",
+    "IssueDate": "2008-09-25"
+  },
+  "AS38838": {
+    "Netname": "KE-ING-NET",
+    "Org": "中嘉寬頻股份有限公司",
+    "IssueDate": "2008-09-26"
+  },
+  "AS38841": {
+    "Netname": "TUNGHO-NET",
+    "Org": "凱擘股份有限公司",
+    "IssueDate": "2009-08-11"
+  },
+  "AS38842": {
+    "Netname": "GMC-NET",
+    "Org": "全球一動股份有限公司",
+    "IssueDate": "2009-08-13"
+  },
+  "AS38843": {
+    "Netname": "PUMO-NET",
+    "Org": "捕夢網數位科技有限公司",
+    "IssueDate": "2009-08-20"
+  },
+  "AS38844": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2009-09-21"
+  },
+  "AS38845": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2009-12-11"
+  },
+  "AS38847": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2011-05-23"
+  },
+  "AS38848": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2011-06-27"
+  },
+  "AS38849": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2012-07-18"
+  },
+  "AS38850": {
+    "Netname": "TIGC-NET",
+    "Org": "台灣國際纜網通信(股)",
+    "IssueDate": "2013-09-17"
+  },
+  "AS38851": {
+    "Netname": "TNET-NET",
+    "Org": "天外天網路科技股份有限公司",
+    "IssueDate": "2014-12-30"
+  },
+  "AS131142": {
+    "Netname": "APOL-NET",
+    "Org": "亞太電信股份有限公司",
+    "IssueDate": "2009-05-18"
+  },
+  "AS131143": {
+    "Netname": "CHINATRUST-NET",
+    "Org": "中國信託商業銀行",
+    "IssueDate": "2010-04-07"
+  },
+  "AS131144": {
+    "Netname": "ASUS-NET",
+    "Org": "華碩電腦股份有限公司",
+    "IssueDate": "2011-07-11"
+  },
+  "AS131145": {
+    "Netname": "EMAX-NET",
+    "Org": "大台中數位有線電視股份有限公司",
+    "IssueDate": "2011-08-05"
+  },
+  "AS131146": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2012-08-03"
+  },
+  "AS131147": {
+    "Netname": "AIATW-NET",
+    "Org": "英屬百慕達商友邦人壽保險股份有限公司台灣分公司",
+    "IssueDate": "2012-11-22"
+  },
+  "AS131148": {
+    "Netname": "BOT-NET",
+    "Org": "臺灣銀行股份有限公司",
+    "IssueDate": "2012-11-29"
+  },
+  "AS131149": {
+    "Netname": "YUANJHEN-NET",
+    "Org": "遠振資訊有限公司",
+    "IssueDate": "2013-03-21"
+  },
+  "AS131150": {
+    "Netname": "TANET-NET",
+    "Org": "教育部",
+    "IssueDate": "2013-06-25"
+  },
+  "AS131151": {
+    "Netname": "NCTAIWAN-NET",
+    "Org": "吉恩立數位科技股份有限公司",
+    "IssueDate": "2013-11-06"
+  },
+  "AS131584": {
+    "Netname": "TAIFO7716-NET",
+    "Org": "台灣智慧光網股份有限公司",
+    "IssueDate": "2013-11-13"
+  },
+  "AS131585": {
+    "Netname": "PUMO-NET",
+    "Org": "捕夢網數位科技有限公司",
+    "IssueDate": "2014-03-17"
+  },
+  "AS131586": {
+    "Netname": "NCICNET-NET",
+    "Org": "新世紀資通股份有限公司",
+    "IssueDate": "2014-03-17"
+  },
+  "AS131587": {
+    "Netname": "MEGAICBC-NET",
+    "Org": "兆豐國際商業銀行",
+    "IssueDate": "2014-04-09"
+  },
+  "AS131588": {
+    "Netname": "FISC-NET",
+    "Org": "財金資訊股份有限公司",
+    "IssueDate": "2014-04-15"
+  },
+  "AS131589": {
+    "Netname": "FOXCONN-NET",
+    "Org": "鴻海精密工業股份有限公司",
+    "IssueDate": "2014-05-08"
+  },
+  "AS131590": {
+    "Netname": "TCB-NET",
+    "Org": "合作金庫銀行",
+    "IssueDate": "2014-05-28"
+  },
+  "AS131591": {
+    "Netname": "AMBIT-NET",
+    "Org": "國碁電子股份有限公司",
+    "IssueDate": "2014-08-07"
+  },
+  "AS131592": {
+    "Netname": "TWT-NET",
+    "Org": "天外天有線電視股份有限公司",
+    "IssueDate": "2014-09-19"
+  },
+  "AS131593": {
+    "Netname": "PEGATRON-NET",
+    "Org": "和碩聯合科技股份有限公司",
+    "IssueDate": "2014-11-18"
+  },
+  "AS131594": {
+    "Netname": "APT-NET",
+    "Org": "亞太電信股份有限公司",
+    "IssueDate": "2015-06-11"
+  },
+  "AS131595": {
+    "Netname": "KTCFE-NET",
+    "Org": "遠東金士頓科技股份有限公司",
+    "IssueDate": "2015-06-17"
+  },
+  "AS131596": {
+    "Netname": "TBCOM-NET",
+    "Org": "台灣寬頻通訊顧問股份有限公司",
+    "IssueDate": "2015-08-07"
+  },
+  "AS131597": {
+    "Netname": "NCDTV-NET",
+    "Org": "新彰數位有線電視股份有限公司",
+    "IssueDate": "2015-10-23"
+  },
+  "AS131598": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2015-11-10"
+  },
+  "AS131599": {
+    "Netname": "WISTRON-NET",
+    "Org": "緯創資通股份有限公司",
+    "IssueDate": "2015-11-19"
+  },
+  "AS131600": {
+    "Netname": "CHIEF-TW-NET",
+    "Org": "是方電訊股份有限公司",
+    "IssueDate": "2015-12-14"
+  },
+  "AS131601": {
+    "Netname": "DCT-NET",
+    "Org": "雲高科技股份有限公司",
+    "IssueDate": "2016-01-20"
+  },
+  "AS131602": {
+    "Netname": "HYA-NET",
+    "Org": "新永安有線電視股份有限公司",
+    "IssueDate": "2016-01-20"
+  },
+  "AS131603": {
+    "Netname": "WSN-TW-NET",
+    "Org": "華世達有限公司",
+    "IssueDate": "2016-03-08"
+  },
+  "AS131604": {
+    "Netname": "CATVISP-NET",
+    "Org": "超宇網際網路國際股份有限公司",
+    "IssueDate": "2016-07-11"
+  },
+  "AS131605": {
+    "Netname": "DRCLOUD-NET",
+    "Org": "無敵科技股份有限公司",
+    "IssueDate": "2016-07-15"
+  },
+  "AS131606": {
+    "Netname": "CHIEF-TW-NET",
+    "Org": "是方電訊股份有限公司",
+    "IssueDate": "2017-02-07"
+  },
+  "AS131607": {
+    "Netname": "DCTV-NET",
+    "Org": "全國數位有線電視股份有限公司",
+    "IssueDate": "2017-02-20"
+  },
+  "AS131608": {
+    "Netname": "CHIEF-TW-NET",
+    "Org": "是方電訊股份有限公司",
+    "IssueDate": "2017-03-08"
+  },
+  "AS131682": {
+    "Netname": "TEST-NET",
+    "Org": "test",
+    "IssueDate": "2017-04-14"
+  },
+  "AS131683": {
+    "Netname": "TEST-NET",
+    "Org": "test",
+    "IssueDate": "2017-04-14"
+  }
+}
