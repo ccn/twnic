@@ -718,15 +718,5 @@
     "Netname": "CHIEF-TW-NET",
     "Org": "是方電訊股份有限公司",
     "IssueDate": "2017-03-08"
-  },
-  "AS131682": {
-    "Netname": "TEST-NET",
-    "Org": "test",
-    "IssueDate": "2017-04-14"
-  },
-  "AS131683": {
-    "Netname": "TEST-NET",
-    "Org": "test",
-    "IssueDate": "2017-04-14"
   }
 }
