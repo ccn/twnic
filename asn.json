@@ -718,5 +718,10 @@
     "Netname": "CHIEF-TW-NET",
     "Org": "是方電訊股份有限公司",
     "IssueDate": "2017-03-08"
+  },
+  "AS131609": {
+    "Netname": "TIDC-NET",
+    "Org": "台灣綠建科技股份有限公司",
+    "IssueDate": "2017-08-28"
   }
 }
