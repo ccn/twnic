@@ -748,5 +748,15 @@
     "Netname": "TAIWANMOBILE-NET",
     "Org": "台灣大哥大股份有限公司",
     "IssueDate": "2018-03-05"
+  },
+  "AS131615": {
+    "Netname": "CHIEF-TW-NET",
+    "Org": "是方電訊股份有限公司",
+    "IssueDate": "2018-03-31"
+  },
+  "AS131616": {
+    "Netname": "CHIEF-TW-NET",
+    "Org": "是方電訊股份有限公司",
+    "IssueDate": "2018-03-31"
   }
 }
