@@ -758,5 +758,15 @@
     "Netname": "CHIEF-TW-NET",
     "Org": "是方電訊股份有限公司",
     "IssueDate": "2018-03-31"
+  },
+  "AS131617": {
+    "Netname": "CENTROID-NET",
+    "Org": "欣馳聯網股份有限公司",
+    "IssueDate": "2018-05-07"
+  },
+  "AS131618": {
+    "Netname": "CARL-NET",
+    "Org": "卡爾國際資訊有限公司",
+    "IssueDate": "2018-05-07"
   }
 }
