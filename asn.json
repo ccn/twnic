@@ -768,35 +768,5 @@
     "Netname": "CARL-NET",
     "Org": "卡爾國際資訊有限公司",
     "IssueDate": "2018-05-07"
-  },
-  "AS131619": {
-    "Netname": "JIGENTEC-NET",
-    "Org": "次元科技有限公司",
-    "IssueDate": "2018-06-04"
-  },
-  "AS131620": {
-    "Netname": "SERVCOMP-NET",
-    "Org": "網際威龍科技有限公司",
-    "IssueDate": "2018-06-06"
-  },
-  "AS131621": {
-    "Netname": "TWNIC-NET",
-    "Org": "台灣網路資訊中心",
-    "IssueDate": "2018-06-12"
-  },
-  "AS131622": {
-    "Netname": "BEARSPACE-NET",
-    "Org": "才高八斗科技股份有限公司",
-    "IssueDate": "2018-06-12"
-  },
-  "AS131623": {
-    "Netname": "SPETW-NET",
-    "Org": "樂購蝦皮有限公司",
-    "IssueDate": "2018-06-26"
-  },
-  "AS131624": {
-    "Netname": "NEWAY-NET",
-    "Org": "晟崴科技股份有限公司",
-    "IssueDate": "2018-07-06"
   }
 }
