@@ -134,6 +134,11 @@
     "Org": "台灣固網股份有限公司",
     "IssueDate": "2000-10-11"
   },
+  "AS9922": {
+    "Netname": "NKBNET-NET",
+    "Org": "高雄大大新寬頻股份有限公司",
+    "IssueDate": "2018-10-09"
+  },
   "AS9924": {
     "Netname": "TFN-NET",
     "Org": "台灣固網股份有限公司",
@@ -828,5 +833,10 @@
     "Netname": "GARENATW-NET",
     "Org": "台灣競舞娛樂有限公司",
     "IssueDate": "2018-08-27"
+  },
+  "AS131631": {
+    "Netname": "SCNET-NET",
+    "Org": "上奇網訊有限公司",
+    "IssueDate": "2018-10-08"
   }
 }
