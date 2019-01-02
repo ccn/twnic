@@ -848,5 +848,15 @@
     "Netname": "SAKURAHOST-NET",
     "Org": "櫻花國際資訊有限公司",
     "IssueDate": "2018-12-13"
+  },
+  "AS131634": {
+    "Netname": "MOBATW-NET",
+    "Org": "新加坡商競舞有限公司台灣分公司",
+    "IssueDate": "2019-01-02"
+  },
+  "AS131635": {
+    "Netname": "AIRPAYTW-NET",
+    "Org": "愛貝有限公司",
+    "IssueDate": "2019-01-02"
   }
 }
