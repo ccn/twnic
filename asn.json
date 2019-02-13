@@ -863,5 +863,10 @@
     "Netname": "WANIN-NET",
     "Org": "網銀國際股份有限公司",
     "IssueDate": "2019-02-01"
+  },
+  "AS131637": {
+    "Netname": "FASTCLOUD-NET",
+    "Org": "迅雲科技有限公司",
+    "IssueDate": "2019-02-12"
   }
 }
