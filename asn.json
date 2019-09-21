@@ -214,6 +214,11 @@
     "Org": "教育部",
     "IssueDate": "2001-10-31"
   },
+  "AS17809": {
+    "Netname": "VEETIME-NET",
+    "Org": "大台中數位有線電視股份有限公司",
+    "IssueDate": "2019-08-16"
+  },
   "AS18042": {
     "Netname": "KBT-NET",
     "Org": "中嘉和網股份有限公司",
@@ -285,8 +290,8 @@
     "IssueDate": "2002-08-15"
   },
   "AS18183": {
-    "Netname": "TWAREN-NET",
-    "Org": "國家高速網路與計算中心",
+    "Netname": "NCREE-NET",
+    "Org": "國家地震工程研究中心",
     "IssueDate": "2002-10-23"
   },
   "AS18184": {
@@ -565,7 +570,7 @@
     "IssueDate": "2011-07-11"
   },
   "AS131145": {
-    "Netname": "EMAX-NET",
+    "Netname": "VEETIME-NET",
     "Org": "大台中數位有線電視股份有限公司",
     "IssueDate": "2011-08-05"
   },
@@ -938,5 +943,55 @@
     "Netname": "LOONGAMING-NET",
     "Org": "化骨龍數位科技有限公司",
     "IssueDate": "2019-06-19"
+  },
+  "AS131652": {
+    "Netname": "KKIS-NET",
+    "Org": "可立可資安股份有限公司",
+    "IssueDate": "2019-07-03"
+  },
+  "AS131653": {
+    "Netname": "CHENSHENG-NET",
+    "Org": "辰昇網路科技有限公司",
+    "IssueDate": "2019-07-08"
+  },
+  "AS131654": {
+    "Netname": "NTCL-NET",
+    "Org": "北台數網電訊股份有限公司",
+    "IssueDate": "2019-07-12"
+  },
+  "AS131655": {
+    "Netname": "FPG-NET",
+    "Org": "南亞塑膠工業股份有限公司",
+    "IssueDate": "2019-07-23"
+  },
+  "AS131656": {
+    "Netname": "FPG-NET",
+    "Org": "南亞塑膠工業股份有限公司",
+    "IssueDate": "2019-07-23"
+  },
+  "AS131657": {
+    "Netname": "HHRCOLTD-NET",
+    "Org": "黃禾實業有限公司",
+    "IssueDate": "2019-08-13"
+  },
+  "AS131658": {
+    "Netname": "GAMESOUL-NET",
+    "Org": "耕碩科技股份有限公司",
+    "IssueDate": "2019-08-16"
+  },
+  "AS131659": {
+    "Netname": "NETEASE-NET",
+    "Org": "網易多媒體科技有限公司",
+    "IssueDate": "2019-08-29"
+  },
+  "AS131660": {
+    "Netname": "HINET-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2019-08-30"
+  },
+  "AS131661": {
+    "Netname": "X2I-NET",
+    "Org": "中華電信股份有限公司",
+    "IssueDate": "2019-08-30"
   }
 }
