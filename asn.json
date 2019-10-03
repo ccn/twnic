@@ -144,6 +144,11 @@
     "Org": "台灣固網股份有限公司",
     "IssueDate": "2000-12-30"
   },
+  "AS10133": {
+    "Netname": "CHIEF-TW-NET",
+    "Org": "是方電訊股份有限公司",
+    "IssueDate": "2019-09-26"
+  },
   "AS10135": {
     "Netname": "EASPNET-NET",
     "Org": "數位通國際網路股份有限公司",
@@ -993,5 +998,15 @@
     "Netname": "X2I-NET",
     "Org": "中華電信股份有限公司",
     "IssueDate": "2019-08-30"
+  },
+  "AS132737": {
+    "Netname": "CHIEF-TW-NET",
+    "Org": "是方電訊股份有限公司",
+    "IssueDate": "2019-09-26"
+  },
+  "AS136378": {
+    "Netname": "CHIEF-TW-NET",
+    "Org": "是方電訊股份有限公司",
+    "IssueDate": "2019-09-26"
   }
 }
