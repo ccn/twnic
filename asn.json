@@ -1004,6 +1004,16 @@
     "Org": "電波有限公司",
     "IssueDate": "2019-10-05"
   },
+  "AS131663": {
+    "Netname": "GIGABYTE-NET",
+    "Org": "技嘉科技",
+    "IssueDate": "2019-10-15"
+  },
+  "AS131666": {
+    "Netname": "HST-NET",
+    "Org": "昊星科技有限公司",
+    "IssueDate": "2019-10-15"
+  },
   "AS132737": {
     "Netname": "CHIEF-TW-NET",
     "Org": "是方電訊股份有限公司",
