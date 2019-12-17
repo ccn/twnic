@@ -485,9 +485,14 @@
     "IssueDate": "2007-02-13"
   },
   "AS24164": {
-    "Netname": "MEDIATV-NET",
-    "Org": "永佳樂有線電視股份有限公司",
+    "Netname": "UBBNET-NET",
+    "Org": "台固媒體股份有限公司",
     "IssueDate": "2007-02-14"
+  },
+  "AS24165": {
+    "Netname": "UBBNET-NET",
+    "Org": "台固媒體股份有限公司",
+    "IssueDate": "2019-12-17"
   },
   "AS24166": {
     "Netname": "GTT-NET",
