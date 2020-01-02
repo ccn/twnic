@@ -154,21 +154,6 @@
     "Org": "數位通國際網路股份有限公司",
     "IssueDate": "2003-08-06"
   },
-  "AS17413": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
-  },
-  "AS17414": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
-  },
-  "AS17415": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
-  },
   "AS17416": {
     "Netname": "DWINS-NET",
     "Org": "敦緯數位服務股份有限公司",
@@ -179,11 +164,6 @@
     "Org": "香港商第一線有限公司台灣分公司",
     "IssueDate": "2000-12-30"
   },
-  "AS17418": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
-  },
   "AS17419": {
     "Netname": "HINET-NET",
     "Org": "中華電信股份有限公司",
@@ -193,11 +173,6 @@
     "Netname": "EMOME-NET",
     "Org": "中華電信股份有限公司",
     "IssueDate": "2000-12-30"
-  },
-  "AS17422": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
   },
   "AS17709": {
     "Netname": "APOL-NET",
@@ -588,31 +563,6 @@
     "Netname": "TNET-NET",
     "Org": "天外天網路科技股份有限公司",
     "IssueDate": "2014-12-30"
-  },
-  "AS38852": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
-  },
-  "AS38853": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
-  },
-  "AS38854": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
-  },
-  "AS38855": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
-  },
-  "AS38856": {
-    "Netname": "HITCON-NET",
-    "Org": "社團法人台灣駭客協會",
-    "IssueDate": "2019-11-06"
   },
   "AS131142": {
     "Netname": "APOL-NET",
