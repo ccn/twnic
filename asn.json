@@ -444,11 +444,6 @@
     "Org": "奇美實業股份有限公司",
     "IssueDate": "2006-05-24"
   },
-  "AS24161": {
-    "Netname": "SIMPLE-NET",
-    "Org": "新樸股份有限公司",
-    "IssueDate": "2006-06-22"
-  },
   "AS24163": {
     "Netname": "UBBNET-NET",
     "Org": "台固媒體股份有限公司",
@@ -488,11 +483,6 @@
     "Netname": "NCICNET-NET",
     "Org": "新世紀資通股份有限公司",
     "IssueDate": "2008-03-20"
-  },
-  "AS24171": {
-    "Netname": "FITEL-NET",
-    "Org": "大眾電信股份有限公司",
-    "IssueDate": "2008-03-26"
   },
   "AS24172": {
     "Netname": "LINCHEIN-NET",
