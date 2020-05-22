@@ -269,20 +269,10 @@
     "Org": "教育部",
     "IssueDate": "2002-06-06"
   },
-  "AS18178": {
-    "Netname": "ATT-NET",
-    "Org": "台灣美訊國際通訊股份有限公司",
-    "IssueDate": "2002-07-08"
-  },
   "AS18179": {
     "Netname": "MITACMDC-NET",
     "Org": "神通資訊科技股份有限公司",
     "IssueDate": "2002-07-15"
-  },
-  "AS18180": {
-    "Netname": "ACI-NET",
-    "Org": "全球華人股份有限公司",
-    "IssueDate": "2002-07-25"
   },
   "AS18181": {
     "Netname": "NHRI-NET",
@@ -373,11 +363,6 @@
     "Netname": "ITRINET-NET",
     "Org": "工業技術研究院",
     "IssueDate": "2004-08-18"
-  },
-  "AS18423": {
-    "Netname": "ROAMNET-NET",
-    "Org": "沅鴻媒體傳訊有限公司",
-    "IssueDate": "2004-12-29"
   },
   "AS18425": {
     "Netname": "TWNTT-NET",
