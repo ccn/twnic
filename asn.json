@@ -4,6 +4,16 @@
     "Org": "教育部",
     "IssueDate": "2005-05-26"
   },
+  "AS1768": {
+    "Netname": "NCICNET-NET",
+    "Org": "新世紀資通股份有限公司",
+    "IssueDate": "2020-05-27"
+  },
+  "AS1769": {
+    "Netname": "NCICNET-NET",
+    "Org": "新世紀資通股份有限公司",
+    "IssueDate": "2020-05-27"
+  },
   "AS3462": {
     "Netname": "HINET-NET",
     "Org": "中華電信股份有限公司",
@@ -323,11 +333,6 @@
     "Netname": "BWIZ-NET",
     "Org": "正源科技股份有限公司",
     "IssueDate": "2003-10-02"
-  },
-  "AS18416": {
-    "Netname": "NETOWN-NET",
-    "Org": "真茂科技股份有限公司",
-    "IssueDate": "2003-12-15"
   },
   "AS18417": {
     "Netname": "twnic-net",
