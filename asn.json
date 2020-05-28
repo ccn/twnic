@@ -470,9 +470,9 @@
     "IssueDate": "2008-03-20"
   },
   "AS24172": {
-    "Netname": "LINCHEIN-NET",
-    "Org": "臨謙科技股份有限公司",
-    "IssueDate": "2008-05-13"
+    "Netname": "CHUAN-CHAN-NET",
+    "Org": "荃城有限公司",
+    "IssueDate": "2020-05-28"
   },
   "AS38837": {
     "Netname": "GSNET-NET",
@@ -1062,6 +1062,11 @@
   "AS131680": {
     "Netname": "COMPAL-NET",
     "Org": "仁寶電腦股份有限公司",
+    "IssueDate": "2020-05-28"
+  },
+  "AS131681": {
+    "Netname": "KKPC-NET",
+    "Org": "彭澄科技有限公司",
     "IssueDate": "2020-05-28"
   },
   "AS132737": {
