@@ -99,6 +99,11 @@
     "Org": "宏遠電訊股份有限公司",
     "IssueDate": "1999-12-01"
   },
+  "AS9678": {
+    "Netname": "HOSTIN-NET",
+    "Org": "鷹式特網有限公司",
+    "IssueDate": "2020-06-19"
+  },
   "AS9679": {
     "Netname": "IONET-NET",
     "Org": "台灣愛鷗網股份有限公司",
