@@ -279,6 +279,11 @@
     "Org": "神通資訊科技股份有限公司",
     "IssueDate": "2002-07-15"
   },
+  "AS18180": {
+    "Netname": "TWNIC-NET",
+    "Org": "台灣網路資訊中心",
+    "IssueDate": "2020-08-05"
+  },
   "AS18181": {
     "Netname": "NHRI-NET",
     "Org": "國家衛生研究院",
