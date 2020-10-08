@@ -1,5 +1,5 @@
 # TWNIC IP/ASN List
 
 Source:
-* https://rms.twnic.net.tw/twnic/User/Member/Search/main7.jsp?Order=ChineseName
-* https://rms.twnic.net.tw/twnic/User/Member/Search/main9.jsp
+* https://rms.twnic.net.tw/help_asn_assign.php
+* https://rms.twnic.net.tw/help_ipv4_assign.php
