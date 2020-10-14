@@ -164,6 +164,11 @@
     "Org": "永通旅行社股份有限公司",
     "IssueDate": "2020-10-12"
   },
+  "AS17414": {
+    "Netname": "DOPPLER-NET",
+    "Org": "杜浦數位安全有限公司",
+    "IssueDate": "2020-10-14"
+  },
   "AS17415": {
     "Netname": "MINGYITEA-NET",
     "Org": "茗藝茶園",
@@ -179,6 +184,11 @@
     "Org": "香港商第一線有限公司台灣分公司",
     "IssueDate": "2000-12-30"
   },
+  "AS17418": {
+    "Netname": "HONGDA-NET",
+    "Org": "虹達倉儲設備實業有限公司",
+    "IssueDate": "2020-10-14"
+  },
   "AS17419": {
     "Netname": "HINET-NET",
     "Org": "中華電信股份有限公司",
@@ -188,6 +198,11 @@
     "Netname": "EMOME-NET",
     "Org": "中華電信股份有限公司",
     "IssueDate": "2000-12-30"
+  },
+  "AS17422": {
+    "Netname": "DOPPLER-NET",
+    "Org": "杜浦數位安全有限公司",
+    "IssueDate": "2020-10-14"
   },
   "AS17709": {
     "Netname": "APOL-NET",
