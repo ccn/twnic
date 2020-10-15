@@ -254,6 +254,11 @@
     "Org": "大台中數位有線電視股份有限公司",
     "IssueDate": "2019-08-16"
   },
+  "AS18041": {
+    "Netname": "TWDS-NET",
+    "Org": "台灣數位串流有限公司",
+    "IssueDate": "2020-10-15"
+  },
   "AS18042": {
     "Netname": "KBT-NET",
     "Org": "中嘉和網股份有限公司",
@@ -1103,6 +1108,11 @@
     "Netname": "MINGYITEA-NET",
     "Org": "茗藝茶園",
     "IssueDate": "2020-07-01"
+  },
+  "AS131683": {
+    "Netname": "CHIAOCHIAO-NET",
+    "Org": "巧巧企業社",
+    "IssueDate": "2020-10-15"
   },
   "AS132737": {
     "Netname": "CHIEF-TW-NET",
