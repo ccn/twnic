@@ -304,6 +304,11 @@
     "Org": "教育部",
     "IssueDate": "2002-06-06"
   },
+  "AS18178": {
+    "Netname": "PNI-NET",
+    "Org": "彼得巧網路資訊股份有限公司",
+    "IssueDate": "2020-10-20"
+  },
   "AS18179": {
     "Netname": "MITACMDC-NET",
     "Org": "神通資訊科技股份有限公司",
@@ -368,6 +373,11 @@
     "Netname": "BWIZ-NET",
     "Org": "正源科技股份有限公司",
     "IssueDate": "2003-10-02"
+  },
+  "AS18416": {
+    "Netname": "CHIAOCHIAO-NET",
+    "Org": "巧巧企業社",
+    "IssueDate": "2020-10-15"
   },
   "AS18417": {
     "Netname": "twnic-net",
@@ -1108,11 +1118,6 @@
     "Netname": "MINGYITEA-NET",
     "Org": "茗藝茶園",
     "IssueDate": "2020-07-01"
-  },
-  "AS131683": {
-    "Netname": "CHIAOCHIAO-NET",
-    "Org": "巧巧企業社",
-    "IssueDate": "2020-10-15"
   },
   "AS132737": {
     "Netname": "CHIEF-TW-NET",
