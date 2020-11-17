@@ -834,16 +834,6 @@
     "Org": "樂購蝦皮股份有限公司",
     "IssueDate": "2018-06-26"
   },
-  "AS131624": {
-    "Netname": "NEWAY-NET",
-    "Org": "晟崴科技股份有限公司",
-    "IssueDate": "2018-07-06"
-  },
-  "AS131625": {
-    "Netname": "YUFENG-NET",
-    "Org": "育酆科技有限公司",
-    "IssueDate": "2018-07-16"
-  },
   "AS131626": {
     "Netname": "NSS-NET",
     "Org": "戰國策網路科技股份有限公司",
@@ -944,11 +934,6 @@
     "Org": "可立可股份有限公司",
     "IssueDate": "2019-05-23"
   },
-  "AS131646": {
-    "Netname": "PCALT-NET",
-    "Org": "保誠人壽保險股份有限公司",
-    "IssueDate": "2019-05-27"
-  },
   "AS131647": {
     "Netname": "TAIWANMOBILE-NET",
     "Org": "台灣大哥大股份有限公司",
@@ -973,11 +958,6 @@
     "Netname": "LOONGAMING-NET",
     "Org": "化骨龍數位科技有限公司",
     "IssueDate": "2019-06-19"
-  },
-  "AS131652": {
-    "Netname": "KKIS-NET",
-    "Org": "可立可資安股份有限公司",
-    "IssueDate": "2019-07-03"
   },
   "AS131653": {
     "Netname": "CHENSHENG-NET",
