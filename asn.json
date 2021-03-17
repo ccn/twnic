@@ -165,9 +165,9 @@
     "IssueDate": "2020-10-12"
   },
   "AS17414": {
-    "Netname": "DOPPLER-NET",
-    "Org": "杜浦數位安全有限公司",
-    "IssueDate": "2020-10-14"
+    "Netname": "WALKSCLOUD-NET",
+    "Org": "行雲資訊有限公司",
+    "IssueDate": "2021-03-11"
   },
   "AS17415": {
     "Netname": "MINGYITEA-NET",
@@ -200,9 +200,9 @@
     "IssueDate": "2000-12-30"
   },
   "AS17422": {
-    "Netname": "DOPPLER-NET",
-    "Org": "杜浦數位安全有限公司",
-    "IssueDate": "2020-10-14"
+    "Netname": "WALKSCLOUD-NET",
+    "Org": "行雲資訊有限公司",
+    "IssueDate": "2021-03-11"
   },
   "AS17709": {
     "Netname": "APOL-NET",
@@ -444,6 +444,11 @@
     "Org": "台灣積體電路製造股份有限公司",
     "IssueDate": "2018-10-05"
   },
+  "AS24153": {
+    "Netname": "ASSMAU-NET",
+    "Org": "愛上香茅餐廳有限公司",
+    "IssueDate": "2021-03-09"
+  },
   "AS24154": {
     "Netname": "APBT-NET",
     "Org": "亞太電信股份有限公司",
@@ -523,6 +528,11 @@
     "Netname": "NCICNET-NET",
     "Org": "新世紀資通股份有限公司",
     "IssueDate": "2008-03-20"
+  },
+  "AS24171": {
+    "Netname": "MINGYITEA-NET",
+    "Org": "茗藝茶園",
+    "IssueDate": "2021-03-17"
   },
   "AS24172": {
     "Netname": "CHUAN-CHAN-NET",
