@@ -134,6 +134,11 @@
     "Org": "新世紀資通股份有限公司",
     "IssueDate": "2001-10-02"
   },
+  "AS9920": {
+    "Netname": "ISTVC-NET",
+    "Org": "樂晉科技有限公司",
+    "IssueDate": "2021-09-23"
+  },
   "AS9921": {
     "Netname": "TFN-NET",
     "Org": "台灣固網股份有限公司",
