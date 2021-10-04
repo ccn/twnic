@@ -59,6 +59,11 @@
     "Org": "亞太電信股份有限公司",
     "IssueDate": "2001-07-20"
   },
+  "AS7483": {
+    "Netname": "SKYCLOUD-NET",
+    "Org": "騰雲運算股份有限公司",
+    "IssueDate": "2021-10-01"
+  },
   "AS7532": {
     "Netname": "GAMANIA-NET",
     "Org": "遊戲橘子數位科技股份有限公司",
