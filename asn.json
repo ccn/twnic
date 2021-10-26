@@ -49,6 +49,11 @@
     "Org": "瑪凱電信股份有限公司",
     "IssueDate": "2004-07-27"
   },
+  "AS7480": {
+    "Netname": "YICHEN-NET",
+    "Org": "益宸國際建材實業有限公司",
+    "IssueDate": "2021-10-26"
+  },
   "AS7481": {
     "Netname": "HINET-NET",
     "Org": "中華電信股份有限公司",
@@ -203,6 +208,11 @@
     "Netname": "HINET-NET",
     "Org": "中華電信股份有限公司",
     "IssueDate": "2000-12-30"
+  },
+  "AS17420": {
+    "Netname": "ACEREDC-NET",
+    "Org": "宏碁雲架構服務股份有限公司",
+    "IssueDate": "2003-10-21"
   },
   "AS17421": {
     "Netname": "EMOME-NET",
