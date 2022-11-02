@@ -729,6 +729,16 @@
     "Org": "財團法人電信技術中心",
     "IssueDate": "2022-10-04"
   },
+  "AS63901": {
+    "Netname": "CYCORE-NET",
+    "Org": "資芯科技股份有限公司",
+    "IssueDate": "2022-11-02"
+  },
+  "AS63902": {
+    "Netname": "SHINETEL-NET",
+    "Org": "德訊電訊股份有限公司",
+    "IssueDate": "2022-11-02"
+  },
   "AS131142": {
     "Netname": "APOL-NET",
     "Org": "亞太電信股份有限公司",
