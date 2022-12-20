@@ -274,6 +274,11 @@
     "Org": "教育部",
     "IssueDate": "2001-10-31"
   },
+  "AS17718": {
+    "Netname": "TWNIC-NET",
+    "Org": "台灣網路資訊中心",
+    "IssueDate": "2022-12-20"
+  },
   "AS17809": {
     "Netname": "VEETIME-NET",
     "Org": "大台中數位有線電視股份有限公司",
