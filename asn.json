@@ -134,6 +134,11 @@
     "Org": "國家高速網路與計算中心",
     "IssueDate": "2000-10-09"
   },
+  "AS9915": {
+    "Netname": "LEEMON-NET",
+    "Org": "禮孟專業顧問有限公司",
+    "IssueDate": "2023-01-18"
+  },
   "AS9916": {
     "Netname": "TANET-NET",
     "Org": "教育部",
