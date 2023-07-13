@@ -1269,6 +1269,11 @@
     "Org": "享昱科技有限公司",
     "IssueDate": "2023-05-10"
   },
+  "AS131670": {
+    "Netname": "WELLSERVE-NET",
+    "Org": "暉捷科技股份有限公司",
+    "IssueDate": "2023-07-13"
+  },
   "AS131671": {
     "Netname": "FANTASY-NET",
     "Org": "凡特斯數位科技股份有限公司",
@@ -1277,11 +1282,6 @@
   "AS131672": {
     "Netname": "WANTEASY-NET",
     "Org": "網易資訊有限公司",
-    "IssueDate": "2020-01-10"
-  },
-  "AS131673": {
-    "Netname": "HTC-NET",
-    "Org": "宏達國際電子股份有限公司",
     "IssueDate": "2020-01-10"
   },
   "AS131674": {
