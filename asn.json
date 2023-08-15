@@ -594,6 +594,11 @@
     "Org": "荃城有限公司",
     "IssueDate": "2020-05-28"
   },
+  "AS38042": {
+    "Netname": "SDCL-TW-NET",
+    "Org": "天空數位有限公司",
+    "IssueDate": "2023-08-15"
+  },
   "AS38837": {
     "Netname": "GSNET-NET",
     "Org": "博訊科技股份有限公司",
@@ -1343,6 +1348,11 @@
     "Netname": "HOSTIN-NET",
     "Org": "鷹式特網有限公司",
     "IssueDate": "2020-06-16"
+  },
+  "AS134823": {
+    "Netname": "SDCL-TW-NET",
+    "Org": "天空數位有限公司",
+    "IssueDate": "2023-08-15"
   },
   "AS136378": {
     "Netname": "CHIEF-TW-NET",
