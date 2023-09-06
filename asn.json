@@ -119,6 +119,11 @@
     "Org": "遠傳電信股份有限公司",
     "IssueDate": "1999-12-01"
   },
+  "AS9675": {
+    "Netname": "DWT-NET",
+    "Org": "大王電信股份有限公司",
+    "IssueDate": "2023-09-06"
+  },
   "AS9676": {
     "Netname": "SAVECOM-NET",
     "Org": "宏遠電訊股份有限公司",
