@@ -1378,5 +1378,10 @@
     "Netname": "FLOPPY-NET",
     "Org": "科比國際有限公司",
     "IssueDate": "2023-12-05"
+  },
+  "AS150758": {
+    "Netname": "ND_SECURE-NET",
+    "Org": "社團法人次世代創新數位安全協會",
+    "IssueDate": "2023-12-07"
   }
 }
