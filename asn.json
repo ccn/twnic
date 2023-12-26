@@ -1418,5 +1418,10 @@
     "Netname": "CHIEF-TW-NET",
     "Org": "是方電訊股份有限公司",
     "IssueDate": "2023-12-18"
+  },
+  "AS150766": {
+    "Netname": "COCODIGIT-NET",
+    "Org": "可可數位有限公司",
+    "IssueDate": "2023-12-26"
   }
 }
