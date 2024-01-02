@@ -1418,5 +1418,10 @@
     "Netname": "COCODIGIT-NET",
     "Org": "可可數位有限公司",
     "IssueDate": "2023-12-26"
+  },
+  "AS150773": {
+    "Netname": "TWNIC-NET",
+    "Org": "台灣網路資訊中心",
+    "IssueDate": "2024-01-02"
   }
 }
