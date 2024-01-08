@@ -55,8 +55,8 @@
     "IssueDate": "2003-09-01"
   },
   "AS7482": {
-    "Netname": "APOL-NET",
-    "Org": "亞太電信股份有限公司",
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
     "IssueDate": "2001-07-20"
   },
   "AS7483": {
@@ -250,8 +250,8 @@
     "IssueDate": "2021-10-18"
   },
   "AS17709": {
-    "Netname": "APOL-NET",
-    "Org": "亞太電信股份有限公司",
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
     "IssueDate": "2001-10-29"
   },
   "AS17710": {
