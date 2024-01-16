@@ -110,8 +110,8 @@
     "IssueDate": "2011-06-01"
   },
   "AS9311": {
-    "Netname": "APOL-NET",
-    "Org": "亞太電信股份有限公司",
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
     "IssueDate": "2005-04-21"
   },
   "AS9674": {
@@ -505,13 +505,13 @@
     "IssueDate": "2021-03-09"
   },
   "AS24154": {
-    "Netname": "APBT-NET",
-    "Org": "亞太電信股份有限公司",
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
     "IssueDate": "2006-01-19"
   },
   "AS24155": {
-    "Netname": "APBT-NET",
-    "Org": "亞太電信股份有限公司",
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
     "IssueDate": "2006-01-19"
   },
   "AS24156": {
@@ -800,8 +800,8 @@
     "IssueDate": "2023-04-11"
   },
   "AS131142": {
-    "Netname": "APOL-NET",
-    "Org": "亞太電信股份有限公司",
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
     "IssueDate": "2009-05-18"
   },
   "AS131143": {
@@ -885,8 +885,8 @@
     "IssueDate": "2014-05-28"
   },
   "AS131591": {
-    "Netname": "APOL-NET",
-    "Org": "亞太電信股份有限公司",
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
     "IssueDate": "2014-08-07"
   },
   "AS131592": {
@@ -900,8 +900,8 @@
     "IssueDate": "2014-11-18"
   },
   "AS131594": {
-    "Netname": "APT-NET",
-    "Org": "亞太電信股份有限公司",
+    "Netname": "FETNET-NET",
+    "Org": "遠傳電信股份有限公司",
     "IssueDate": "2015-06-11"
   },
   "AS131595": {
