@@ -57,7 +57,7 @@
   "AS7482": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
-    "IssueDate": "2001-07-20"
+    "IssueDate": "2024-01-16"
   },
   "AS7483": {
     "Netname": "SKYCLOUD-NET",
@@ -112,7 +112,7 @@
   "AS9311": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
-    "IssueDate": "2005-04-21"
+    "IssueDate": "2024-01-16"
   },
   "AS9674": {
     "Netname": "FETNET-NET",
@@ -252,7 +252,7 @@
   "AS17709": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
-    "IssueDate": "2001-10-29"
+    "IssueDate": "2024-01-16"
   },
   "AS17710": {
     "Netname": "PIINET-NET",
@@ -507,12 +507,12 @@
   "AS24154": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
-    "IssueDate": "2006-01-19"
+    "IssueDate": "2024-01-16"
   },
   "AS24155": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
-    "IssueDate": "2006-01-19"
+    "IssueDate": "2024-01-16"
   },
   "AS24156": {
     "Netname": "STWN-NET",
@@ -802,7 +802,7 @@
   "AS131142": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
-    "IssueDate": "2009-05-18"
+    "IssueDate": "2024-01-16"
   },
   "AS131143": {
     "Netname": "CHINATRUST-NET",
@@ -887,7 +887,7 @@
   "AS131591": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
-    "IssueDate": "2014-08-07"
+    "IssueDate": "2024-01-16"
   },
   "AS131592": {
     "Netname": "TWT-NET",
@@ -902,7 +902,7 @@
   "AS131594": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
-    "IssueDate": "2015-06-11"
+    "IssueDate": "2024-01-16"
   },
   "AS131595": {
     "Netname": "KTCFE-NET",
@@ -1205,9 +1205,9 @@
     "IssueDate": "2019-07-23"
   },
   "AS131657": {
-    "Netname": "HHRCOLTD-NET",
-    "Org": "黃禾實業有限公司",
-    "IssueDate": "2019-08-13"
+    "Netname": "HONGDA-NET",
+    "Org": "虹達倉儲設備實業有限公司",
+    "IssueDate": "2024-01-17"
   },
   "AS131658": {
     "Netname": "GAMESOUL-NET",
