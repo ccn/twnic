@@ -119,6 +119,11 @@
     "Org": "宏遠電訊股份有限公司",
     "IssueDate": "1999-12-01"
   },
+  "AS9677": {
+    "Netname": "CARLWATCH-NET",
+    "Org": "卡爾鐘錶企業社",
+    "IssueDate": "2024-01-30"
+  },
   "AS9678": {
     "Netname": "HOSTIN-NET",
     "Org": "鷹式特網有限公司",
@@ -779,11 +784,6 @@
     "Org": "見得新貴科技有限公司",
     "IssueDate": "2023-01-13"
   },
-  "AS63909": {
-    "Netname": "UNCLEPAN-NET",
-    "Org": "胖北北資訊股份有限公司",
-    "IssueDate": "2023-02-06"
-  },
   "AS63910": {
     "Netname": "CLARK-NET",
     "Org": "敘昇科技有限公司",
@@ -1398,6 +1398,11 @@
     "Netname": "SHIJICOLTD-NET",
     "Org": "仕記實業有限公司",
     "IssueDate": "2024-01-05"
+  },
+  "AS150768": {
+    "Netname": "CLOUDWALK-NET",
+    "Org": "雲端行者有限公司",
+    "IssueDate": "2024-01-30"
   },
   "AS150773": {
     "Netname": "TWNIC-NET",
