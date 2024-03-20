@@ -1418,5 +1418,10 @@
     "Netname": "NCCC-NET",
     "Org": "財團法人聯合信用卡處理中心",
     "IssueDate": "2024-02-29"
+  },
+  "AS150773": {
+    "Netname": "TOPCHINA-NET",
+    "Org": "華魁科技顧問有限公司",
+    "IssueDate": "2024-03-20"
   }
 }
