@@ -476,7 +476,7 @@
   },
   "AS18425": {
     "Netname": "TWNTT-NET",
-    "Org": "台灣恩悌悌股份有限公司",
+    "Org": "台灣恩悌悌系統股份有限公司",
     "IssueDate": "2005-06-01"
   },
   "AS18426": {
@@ -570,9 +570,9 @@
     "IssueDate": "2007-06-27"
   },
   "AS24167": {
-    "Netname": "ASGC-NET",
-    "Org": "中央研究院網格計算團隊",
-    "IssueDate": "2007-07-20"
+    "Netname": "ASNET-NET",
+    "Org": "中央研究院",
+    "IssueDate": "2024-06-20"
   },
   "AS24168": {
     "Netname": "CLOUDMAX-NET",
