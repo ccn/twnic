@@ -1433,5 +1433,10 @@
     "Netname": "SAELW-NET",
     "Org": "賽凌微台灣股份有限公司",
     "IssueDate": "2024-05-30"
+  },
+  "AS152611": {
+    "Netname": "BEIDOU-NET",
+    "Org": "北斗數位科技",
+    "IssueDate": "2024-08-12"
   }
 }
