@@ -1438,5 +1438,10 @@
     "Netname": "BEIDOU-NET",
     "Org": "北斗數位科技",
     "IssueDate": "2024-08-12"
+  },
+  "AS152612": {
+    "Netname": "SIEMENS-NET",
+    "Org": "西門子股份有限公司",
+    "IssueDate": "2024-08-16"
   }
 }
