@@ -184,6 +184,11 @@
     "Org": "高雄大大新寬頻股份有限公司",
     "IssueDate": "2018-10-09"
   },
+  "AS9923": {
+    "Netname": "SIMPLE-NET",
+    "Org": "簡單資訊有限公司",
+    "IssueDate": "2024-11-04"
+  },
   "AS9924": {
     "Netname": "TFN-NET",
     "Org": "台灣固網股份有限公司",
@@ -1453,5 +1458,10 @@
     "Netname": "LEYUN-NET",
     "Org": "樂云數位有限公司",
     "IssueDate": "2024-10-17"
+  },
+  "AS152617": {
+    "Netname": "TIANCHUANG-NET",
+    "Org": "天創廣告行銷",
+    "IssueDate": "2024-11-04"
   }
 }
