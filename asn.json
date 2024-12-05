@@ -209,6 +209,11 @@
     "Org": "數位通國際網路股份有限公司",
     "IssueDate": "2003-08-06"
   },
+  "AS17413": {
+    "Netname": "DODOLTD-NET",
+    "Org": "渡渡有限公司",
+    "IssueDate": "2024-12-05"
+  },
   "AS17414": {
     "Netname": "WALKSCLOUD-NET",
     "Org": "行雲資訊有限公司",
@@ -313,6 +318,11 @@
     "Netname": "VEETIME-NET",
     "Org": "大台中數位有線電視股份有限公司",
     "IssueDate": "2019-08-16"
+  },
+  "AS18040": {
+    "Netname": "LEYUN-NET",
+    "Org": "樂云數位有限公司",
+    "IssueDate": "2024-12-05"
   },
   "AS18041": {
     "Netname": "TWDS-NET",
@@ -844,11 +854,6 @@
     "Org": "教育部",
     "IssueDate": "2013-06-25"
   },
-  "AS131151": {
-    "Netname": "NCTAIWAN-NET",
-    "Org": "吉恩立數位科技股份有限公司",
-    "IssueDate": "2013-11-06"
-  },
   "AS131584": {
     "Netname": "TAIFO7716-NET",
     "Org": "台灣智慧光網股份有限公司",
@@ -973,11 +978,6 @@
     "Netname": "CHIEF-TW-NET",
     "Org": "是方電訊股份有限公司",
     "IssueDate": "2017-03-08"
-  },
-  "AS131609": {
-    "Netname": "TIDC-NET",
-    "Org": "台灣綠建科技股份有限公司",
-    "IssueDate": "2017-08-28"
   },
   "AS131611": {
     "Netname": "SDTV-NET",
