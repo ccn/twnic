@@ -334,11 +334,6 @@
     "Org": "中嘉和網股份有限公司",
     "IssueDate": "2001-12-13"
   },
-  "AS18043": {
-    "Netname": "GETOP-NET",
-    "Org": "堅達資訊實業股份有限公司",
-    "IssueDate": "2002-01-23"
-  },
   "AS18044": {
     "Netname": "ALLROUND-NET",
     "Org": "台灣全方位國際科技有限公司",
@@ -752,11 +747,6 @@
   "AS63899": {
     "Netname": "NTUSTCCADM-NET",
     "Org": "國立臺灣科技大學",
-    "IssueDate": "2022-10-04"
-  },
-  "AS63900": {
-    "Netname": "TTC-NET",
-    "Org": "財團法人電信技術中心",
     "IssueDate": "2022-10-04"
   },
   "AS63901": {
