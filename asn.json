@@ -1453,5 +1453,15 @@
     "Netname": "LINEPAYTW-NET",
     "Org": "連加網路商業股份有限公司",
     "IssueDate": "2025-01-14"
+  },
+  "AS152621": {
+    "Netname": "MORNMAPLE-NET",
+    "Org": "晨楓資訊有限公司",
+    "IssueDate": "2025-02-19"
+  },
+  "AS152622": {
+    "Netname": "POWERHOUSE-NET",
+    "Org": "修煉有意思股份有限公司",
+    "IssueDate": "2025-02-19"
   }
 }
