@@ -334,11 +334,6 @@
     "Org": "中嘉和網股份有限公司",
     "IssueDate": "2001-12-13"
   },
-  "AS18044": {
-    "Netname": "ALLROUND-NET",
-    "Org": "台灣全方位國際科技有限公司",
-    "IssueDate": "2024-04-29"
-  },
   "AS18045": {
     "Netname": "SINOPAC-NET",
     "Org": "永豐商業銀行股份有限公司",
@@ -493,11 +488,6 @@
     "Netname": "NARL-NET",
     "Org": "財團法人國家實驗研究院",
     "IssueDate": "2005-07-06"
-  },
-  "AS18427": {
-    "Netname": "PCHOME-NET",
-    "Org": "網路家庭國際資訊股份有限公司",
-    "IssueDate": "2005-07-07"
   },
   "AS18428": {
     "Netname": "MERCYCAT-NET",
@@ -1059,11 +1049,6 @@
     "Org": "銓鍇國際股份有限公司",
     "IssueDate": "2018-08-21"
   },
-  "AS131633": {
-    "Netname": "SAKURAHOST-NET",
-    "Org": "櫻花國際資訊有限公司",
-    "IssueDate": "2018-12-13"
-  },
   "AS131634": {
     "Netname": "MOBATW-NET",
     "Org": "新加坡商競舞電競有限公司台灣分公司",
@@ -1308,11 +1293,6 @@
     "Netname": "FLOPPY-NET",
     "Org": "科比國際有限公司",
     "IssueDate": "2023-12-05"
-  },
-  "AS150758": {
-    "Netname": "ND_SECURE-NET",
-    "Org": "社團法人次世代創新數位安全協會",
-    "IssueDate": "2023-12-07"
   },
   "AS150759": {
     "Netname": "WOLFNET-NET",
