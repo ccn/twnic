@@ -889,11 +889,6 @@
     "Org": "台灣寬頻通訊顧問股份有限公司",
     "IssueDate": "2015-08-07"
   },
-  "AS131597": {
-    "Netname": "NCDTV-NET",
-    "Org": "新彰數位有線電視股份有限公司",
-    "IssueDate": "2015-10-23"
-  },
   "AS131598": {
     "Netname": "HINET-NET",
     "Org": "中華電信股份有限公司",
@@ -958,11 +953,6 @@
     "Netname": "HINET-NET",
     "Org": "中華電信股份有限公司",
     "IssueDate": "2024-01-26"
-  },
-  "AS131613": {
-    "Netname": "SHINCHENG-NET",
-    "Org": "鑫晟數位股份有限公司",
-    "IssueDate": "2018-01-09"
   },
   "AS131614": {
     "Netname": "TAIWANMOBILE-NET",
