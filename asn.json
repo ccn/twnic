@@ -770,9 +770,9 @@
     "IssueDate": "2023-10-12"
   },
   "AS63906": {
-    "Netname": "YUANJHEN-NET",
-    "Org": "遠振資訊股份有限公司",
-    "IssueDate": "2023-10-12"
+    "Netname": "FUYU-NET",
+    "Org": "富予國際有限公司",
+    "IssueDate": "2025-09-18"
   },
   "AS63907": {
     "Netname": "TGM-NET",
@@ -868,6 +868,11 @@
     "Netname": "FOXCONN-NET",
     "Org": "鴻海精密工業股份有限公司",
     "IssueDate": "2014-05-08"
+  },
+  "AS131590": {
+    "Netname": "GAMBESON-NET",
+    "Org": "永睿電子有限公司",
+    "IssueDate": "2025-09-18"
   },
   "AS131591": {
     "Netname": "FETNET-NET",
