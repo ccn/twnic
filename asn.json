@@ -749,6 +749,11 @@
     "Org": "國立臺灣科技大學",
     "IssueDate": "2022-10-04"
   },
+  "AS63900": {
+    "Netname": "ZUSO-NET",
+    "Org": "如梭世代股份有限公司",
+    "IssueDate": "2025-10-09"
+  },
   "AS63901": {
     "Netname": "CYCORE-NET",
     "Org": "資芯科技股份有限公司",
@@ -1253,6 +1258,11 @@
     "Netname": "COMPAL-NET",
     "Org": "仁寶電腦股份有限公司",
     "IssueDate": "2020-05-28"
+  },
+  "AS131681": {
+    "Netname": "QISDA-NET",
+    "Org": "佳世達科技股份有限公司",
+    "IssueDate": "2025-10-09"
   },
   "AS131682": {
     "Netname": "MINGYITEA-NET",
