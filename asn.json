@@ -1254,10 +1254,20 @@
     "Org": "網易資訊有限公司",
     "IssueDate": "2020-01-10"
   },
+  "AS131673": {
+    "Netname": "UNIONISME-NET",
+    "Org": "聯閤科技股份有限公司",
+    "IssueDate": "2025-11-20"
+  },
   "AS131674": {
     "Netname": "OPENRICH-NET",
     "Org": "豐軒科技股份有限公司",
     "IssueDate": "2020-01-15"
+  },
+  "AS131676": {
+    "Netname": "GMICLOUD-NET",
+    "Org": "英屬開曼群島商聯通科技國際股份有限公司台灣分公司",
+    "IssueDate": "2025-11-20"
   },
   "AS131677": {
     "Netname": "OPENFOR-NET",
