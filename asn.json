@@ -994,6 +994,11 @@
     "Org": "中華電信股份有限公司",
     "IssueDate": "2024-01-26"
   },
+  "AS131613": {
+    "Netname": "SDCL-TW-NET",
+    "Org": "天空數位有限公司",
+    "IssueDate": "2025-12-04"
+  },
   "AS131614": {
     "Netname": "TAIWANMOBILE-NET",
     "Org": "台灣大哥大股份有限公司",
