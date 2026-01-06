@@ -324,11 +324,6 @@
     "Org": "大台中數位有線電視股份有限公司",
     "IssueDate": "2019-08-16"
   },
-  "AS18040": {
-    "Netname": "LEYUN-NET",
-    "Org": "樂云數位有限公司",
-    "IssueDate": "2024-12-05"
-  },
   "AS18041": {
     "Netname": "TWDS-NET",
     "Org": "台灣數位串流有限公司",
@@ -1454,6 +1449,11 @@
     "Org": "北斗數位科技",
     "IssueDate": "2024-08-12"
   },
+  "AS152612": {
+    "Netname": "AOTERNET-NET",
+    "Org": "歐特網路有限公司",
+    "IssueDate": "2026-01-06"
+  },
   "AS152613": {
     "Netname": "CODEUPTECH-NET",
     "Org": "碼上好科技有限公司",
@@ -1468,11 +1468,6 @@
     "Netname": "CHUMMYTECH-NET",
     "Org": "密友科技有限公司",
     "IssueDate": "2024-10-14"
-  },
-  "AS152616": {
-    "Netname": "LEYUN-NET",
-    "Org": "樂云數位有限公司",
-    "IssueDate": "2024-10-17"
   },
   "AS152617": {
     "Netname": "PPTECH-NET",
