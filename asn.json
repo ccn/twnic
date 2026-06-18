@@ -114,6 +114,16 @@
     "Org": "遠傳電信股份有限公司",
     "IssueDate": "2024-01-16"
   },
+  "AS9416": {
+    "Netname": "KBT-NET",
+    "Org": "中嘉和網股份有限公司",
+    "IssueDate": "2026-06-18"
+  },
+  "AS9539": {
+    "Netname": "KBT-NET",
+    "Org": "中嘉和網股份有限公司",
+    "IssueDate": "2026-06-18"
+  },
   "AS9674": {
     "Netname": "FETNET-NET",
     "Org": "遠傳電信股份有限公司",
