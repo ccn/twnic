@@ -1009,11 +1009,6 @@
     "Org": "原誠有限公司",
     "IssueDate": "2026-03-17"
   },
-  "AS131610": {
-    "Netname": "PPTECH-NET",
-    "Org": "皮皮科技股份有限公司",
-    "IssueDate": "2026-03-31"
-  },
   "AS131611": {
     "Netname": "SDTV-NET",
     "Org": "三大有線電視股份有限公司",
@@ -1533,11 +1528,6 @@
     "Netname": "BHIS-NET",
     "Org": "伯亨資訊服務有限公司",
     "IssueDate": "2026-01-15"
-  },
-  "AS152617": {
-    "Netname": "PPTECH-NET",
-    "Org": "皮皮科技股份有限公司",
-    "IssueDate": "2025-08-21"
   },
   "AS152618": {
     "Netname": "NOT_TFN_CO-NET",
